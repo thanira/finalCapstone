@@ -1,4 +1,4 @@
-# finalCapstone
+# Final Capstone - Sentiment Analyzis
 
 # Description
 The program uses the en_cpre_web_sm spaCy model to analyze and classify a sample set of customer product review texts and makes sentiment predictions on those reviews. The Amazon Product Review dataset in csv file is used for this project.
