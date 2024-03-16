@@ -5,7 +5,7 @@ The program uses the en_cpre_web_sm spaCy model to analyze and classify a sample
 
 # Instruction
 The "amazon_product_reviews.csv" file is in a zip file. If it doesn't work, please download the dataset here: https://www.kaggle.com/datasets/datafiniti/consumer-reviews-of-amazon-products
-Please make sure the dataset "amazon_product_reviews.csv" is in the same directory as the "sentiment_analysis.ipynb" before running the program.
+Please make sure the dataset "amazon_product_reviews.csv" is in the same directory as the "sentiment_analysis.py" before running the program.
 
 # Packages used in the project
 spaCy, spaCy, textblob, pandas, random, matplotlib
