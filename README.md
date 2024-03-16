@@ -8,5 +8,5 @@ The "amazon_product_reviews.csv" file is in a zip file. If it doesn't work, plea
 Please make sure the dataset "amazon_product_reviews.csv" is in the same directory as the "sentiment_analysis.ipynb" before running the program.
 
 # Packages used in the project
-spaCy, spaCytextblob, pandas, random, matplotlib
+spaCy, spaCy, textblob, pandas, random, matplotlib
 
